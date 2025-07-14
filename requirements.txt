@@ -19,7 +19,6 @@ jsonschema==4.24.0
 jsonschema-specifications==2025.4.1
 kiwisolver==1.4.7
 lazy_loader==0.4
-MarkupSafe==3.0.2
 matplotlib==3.9.2
 narwhals==1.46.0
 networkx==3.4.2
