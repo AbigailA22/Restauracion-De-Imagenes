@@ -1,1 +1,1 @@
-# Restauracion-De-Imagenes
+Restauracion De Imagenes por Métodos Tradicionales
